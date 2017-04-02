@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0f47a680b6ac08846b4a725b7dad2f2f
+timeCreated: 1488247812
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F-Zero GP Legend Font
+  fontNames:
+  - F-Zero GP Legend Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

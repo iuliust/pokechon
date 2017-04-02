@@ -1,0 +1,15 @@
+{
+    "cards": [{
+        "Name":"Zemmour",
+        "isMale":true,
+        "Vie":5,
+		"Att":4,
+		"Def":3
+    },
+    {
+        "Name":"Sarah",
+        "isMale":false,
+        "Att":4,
+        "Def":2
+    }]
+ }
